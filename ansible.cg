@@ -1,0 +1,3 @@
+[defaults]
+gather_subset=!all
+timeout = 30
